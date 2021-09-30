@@ -1,2 +1,2 @@
-# ds_class
-lecture of data structure @ DU 
+# basic-c-class
+lecture of basic programming @ DU 
