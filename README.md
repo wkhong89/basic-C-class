@@ -1,2 +1,2 @@
-# basic-c-class
+# Basic Programming
 lecture of basic programming @ DU 
