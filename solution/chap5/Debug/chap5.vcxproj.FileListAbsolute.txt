@@ -1,2 +1,3 @@
 C:\Users\wkhong\Desktop\workspace\basic programming\chap5\Debug\chap5.exe
 C:\Users\wkhong\Desktop\workspace\basic-C-class\solution\chap5\Debug\chap5.exe
+C:\Users\wkhon\Desktop\workspace\basic-C-class\solution\chap5\Debug\chap5.exe
