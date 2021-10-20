@@ -1,1 +1,2 @@
 C:\Users\wkhong\Desktop\workspace\basic programming\chap4\Debug\chap4.exe
+C:\Users\wkhon\Desktop\workspace\basic-C-class\solution\chap4\Debug\chap4.exe
