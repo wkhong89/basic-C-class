@@ -4,7 +4,7 @@
 #define  YEARS 	3
 #define  PRODUCTS 	5
 
-int sum(int scores[YEARS][PRODUCTS]);
+int sum(int scores[][]);
 
 int main(void)
 {
@@ -18,7 +18,7 @@ int main(void)
 	return 0;
 }
 
-int sum(int scores[YEARS][PRODUCTS])
+int sum(int scores[][])
 {
 	int y, p;
 	int total = 0;
